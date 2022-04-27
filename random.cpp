@@ -11,3 +11,7 @@ int get_random_int(std::minstd_rand& generator) {
     int random_num = dist(generator);
     return random_num;
 }
+
+int this_is_kinda_kewl(std::make_index_sequence<>) {
+    //added some function
+}
