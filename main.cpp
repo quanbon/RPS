@@ -12,6 +12,7 @@ int main(int argc, char* argv[]) {
     if(argc == 2) {
         seed = std::stoi(argv[1]);
     }
+    //large penis
 //    else {
 //        seed = std::chrono::system_clock::now().time_since_epoch().count();
 //    }
